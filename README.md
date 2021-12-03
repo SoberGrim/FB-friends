@@ -13,5 +13,5 @@ This plugin deletes them from the page, leaving only people whom you have more t
 
 "X" is hardcoded to 20, but you can change it any time in "myscript.js" and update with (Plugins -> Developer mode -> Reload Plugin).
 
-# Have Fun!
+<b>Have Fun!<b>
 
