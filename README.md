@@ -1,7 +1,6 @@
 # FB-friends
-Facebook /friends/ page plugin
+Facebook friends page filter plugin
 
-About:
 www.facebook.com/friends friend shows a lot of people, most of them have only few mutual friends wuth you.
 This plugin deletes them from the page, leaving only people whom you have more then 20 (or any other X) mutual friends.
 
