@@ -1,0 +1,17 @@
+{
+	"name":"FB friends",
+	"description":"FB friends by SoberGrim",
+	"version":"1.0",
+	"manifest_version":2,
+	"icons": { "16": "logo.png",
+        	"48": "logo.png",
+        	"128": "logo.png" },
+
+
+	"content_scripts": [
+	    {
+	      "matches": ["http://www.facebook.com/friends","https://www.facebook.com/friends"],
+	      "js": ["myscript.js"]
+	    }
+	  ]
+}
